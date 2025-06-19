@@ -59,6 +59,8 @@
   
   ## 
   
-  📍 Author **Madiha Kounain** Department of Computer Science and Engineering Project: RainCast ML
+  📍 Author 
+          Madiha Kounain
+          Department of Computer Science and Engineering Project: RainCast ML
 
 </pre>
